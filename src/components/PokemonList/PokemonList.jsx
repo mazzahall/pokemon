@@ -1,7 +1,7 @@
 import pokemonJSON from "../../data/pokemon.json";
 import { useState } from "react";
 import PokemonItem from "../PokemonItem/PokemonItem";
-import  "./pokemonList.css";
+import  "./PokemonList.css";
 
 function PokemonList() {
   const [pokemons] = useState(pokemonJSON);
