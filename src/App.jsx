@@ -1,5 +1,5 @@
 import PokemonList from "./components/PokemonList/PokemonList";
-import Layoutspokemon from "./components/Layouts/Layoutspokemon";
+import Layoutspokemon from "./components/Layouts/LayoutsPokemon";
 function App() {
   return (
      <Layoutspokemon>
